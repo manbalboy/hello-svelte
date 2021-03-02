@@ -1,4 +1,9 @@
 # vs code 에서 svelte for VS code 플러그인설치
+# 템플릿 생성 명령어  
+```
+npx degit sveltejs/template [프로젝트폴더명]
+```
+
 
 
 
